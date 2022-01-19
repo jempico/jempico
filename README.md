@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋🏽 , I'm Jemimah</h1>
+<h1 align="center">Hi! Hola! 👋🏽 , I'm Jemimah</h1>
 <h3 align="center">A passionate runner & web developer from Barcelona</h3>
 
 <br>
 
 - 🐣 I’m a recent **JavaScript Full-Stack Bootcamp** graduate
 
-- 🤝 I’m actively looking for junior web developer positions based **in Barcelona**
+- 🤝 I’m actively looking for junior web development positions based **in Barcelona**
 
 - 🔭 I’m currently working on **a Pokemon Web App With React**
 
@@ -13,11 +13,11 @@
 
 - 👨‍💻 All of my projects are available at [www.jempico.com](www.jempico.com)
 
-- 💬 Ask me about **JavaScript, Express, NodeJS, Databases (both relational and non-relational).**
+- 💬 Ask me about **JavaScript, Express, NodeJS, Databases (both relational and non-relational)**
 
-- 📫 How to reach me **jpfilarca@gmail.com**
+- 🗣️ I speak **English, Spanish and Catalan**
 
-- 🏃🏻‍♀️ Fun fact **When not coding, I'm training for my first 10K!**
+- 🏃🏻‍♀️ When not coding...  **I'm training for my first 10K!**
 
 <br>
 
