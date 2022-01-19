@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋🏽 , I'm Jemimah</h1>
 <h3 align="center">A passionate runner & web developer from Barcelona</h3>
 
+<br>
 
 - 🐣 I’m a recent **JavaScript Full-Stack Bootcamp** graduate
 
