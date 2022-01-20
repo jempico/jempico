@@ -7,7 +7,7 @@
 
 - 🤝 I’m actively looking for junior web development positions based **in Barcelona**
 
-- 🔭 I’m currently working on **a Pokemon Web App With React**
+- 🔭 I’m currently working on a **Pokédex Web App With React**
 
 - 🌱 While learning **Java** as part of my learning journey to become a software engineer
 
