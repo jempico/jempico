@@ -11,7 +11,7 @@
 
 - 🌱 While expanding my skills with **NextJS, Tailwind CSS, Redis, AWS** in order to become a solid full-stack dev! 
 
-- 💬 Ask me about **Rest APIs, HTTP, NodeJS, Databases (SQL/NoSQL), Web Security (Bcrypt/OAuth), NPM**
+- 💬 Ask me about **Rest APIs, HTTP, NodeJS, Databases (SQL/NoSQL), Web Security (Bcrypt/JWT/OAuth), NPM**
 
 - 👨‍💻 All of my projects are available at [www.jempico.com](www.jempico.com)
 
