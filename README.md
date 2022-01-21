@@ -9,11 +9,11 @@
 
 - 🔭 I’m currently working on a **Pokédex Web App With React**
 
-- 🌱 While learning **Java** as part of my learning journey to become a software engineer
+- 🌱 While expanding my skills with **NextJS, Tailwind CSS, Redis, AWS** in order to become a solid full-stack dev! 
+
+- 💬 Ask me about **Rest APIs, HTTP, NodeJS, Databases (SQL/NoSQL), Web Security (Bcrypt/OAuth), NPM**
 
 - 👨‍💻 All of my projects are available at [www.jempico.com](www.jempico.com)
-
-- 💬 Ask me about **JavaScript, Express, NodeJS, Databases (both relational and non-relational)**
 
 - 🗣️ I speak **English, Spanish and Catalan**
 
