@@ -7,11 +7,11 @@
 
 - 🤝 I’m actively looking for junior web development positions based **in Barcelona**
 
-- 🔭 I’m currently working on a **Pokédex Web App With React**
-
-- 🌱 While expanding my skills with **NextJS, Tailwind CSS, Redis, AWS** in order to become a solid full-stack dev! 
-
 - 💬 Ask me about **Rest APIs, HTTP, NodeJS, Databases (SQL/NoSQL), Web Security (Bcrypt/JWT/OAuth), NPM**
+
+- 🔭 I’m currently expanding my skills with **NextJS, Tailwind CSS, Redis, AWS** in order to become a solid full-stack dev! 
+
+- 🎓 While studying a **CFGS in Web App Development** at the UOC (Universitat Oberta de Catalunya)
 
 - 👨‍💻 All of my projects are available at [www.jempico.com](www.jempico.com)
 
