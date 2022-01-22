@@ -7,7 +7,7 @@
 
 - 🤝 I’m actively looking for junior web development positions based **in Barcelona**
 
-- 💬 Ask me about **Rest APIs, HTTP, NodeJS, Databases (SQL/NoSQL), Web Security (Bcrypt/JWT/OAuth), NPM**
+- 💬 Ask me about **Rest APIs, HTTP, NodeJS, React, Databases (SQL/NoSQL), Web Security (Bcrypt/JWT/OAuth), NPM**
 
 - 🔭 I’m currently expanding my skills with **NextJS, Tailwind CSS, Redis, AWS** in order to become a solid full-stack dev! 
 
