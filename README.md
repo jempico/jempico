@@ -19,6 +19,8 @@
 
 - 🏃🏻‍♀️ When not coding...  **I'm training for my first 10K!**
 
+- 🎧 My favorite coding music: any Charlie Brown & Peanuts soundtrack album! (specially on Xmas days 🤩)!
+
 <br>
 
 <h3 align="left">Connect with me:</h3>
