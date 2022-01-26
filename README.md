@@ -3,7 +3,7 @@
 
 <br>
 
-- 🐣 I’m a recent **JavaScript Full-Stack Bootcamp** graduate
+- 🐣 I’m a recent **JavaScript/NodeJS Full-Stack Bootcamp** graduate
 
 - 🤝 I’m actively looking for junior web development positions based **in Barcelona**
 
