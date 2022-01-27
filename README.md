@@ -9,11 +9,11 @@
 
 - 💬 Ask me about **Rest APIs, HTTP, NodeJS, React, Databases (SQL/NoSQL), Web Security (Bcrypt/JWT/OAuth), NPM**
 
-- 🔭 I’m currently expanding my skills with **NextJS, Tailwind CSS, Redis, AWS** in order to become a solid full-stack dev! 
+- 🔭 I’m currently working on a project with **Redux, Hooks, GraphQL, ContextAPI, Stripe, Firebase, Styled-components, Jest y Enzyme** in order to become a solid React full-stack dev! 
 
 - 🎓 While studying a **CFGS in Web App Development** at the UOC (Universitat Oberta de Catalunya)
 
-- 👨‍💻 All of my projects are available at [www.jempico.com](www.jempico.com)
+- 👨‍💻 All my projects are available at [www.jempico.com](www.jempico.com)
 
 - 🗣️ I speak **English, Spanish and Catalan**
 
