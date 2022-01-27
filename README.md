@@ -17,9 +17,9 @@
 
 - 🗣️ I speak **English, Spanish and Catalan**
 
-- 🏃🏻‍♀️ When not coding...  **I'm training for my first 10K!**
+- 🏃🏻‍♀️ When not coding...  **I'm training for my first 10K!** (With [THIS](https://open.spotify.com/playlist/0GD1RMN2R3enVkelfdvVtm?si=9046b52a8ff64da6) playlist!)
 
-- 🎧 My favorite coding music: any Charlie Brown & Peanuts soundtrack album! (specially on Xmas days 🤩)!
+- 🎧 My favorite coding music: any [Charlie Brown & Peanuts](https://open.spotify.com/album/4bNE83zw6uZs5FyDFnSCui?si=EdmvH74IRgSBCKXQhsfx9w) soundtrack album (or [code-fi / lofi beats](https://www.youtube.com/watch?v=f02mOEt11OQ), for suree!)
 
 <br>
 
