@@ -15,7 +15,7 @@
 
 - 👨‍💻 All my projects are available at [www.jempico.com](www.jempico.com)
 
-- 🎨 For funky front-end pills go check my CodePEN colletion at [www.codepen.io/JEMPI20] (https://codepen.io/JEMPI20)
+- 🎨 For funky front-end pills go check my CodePEN colletion at www.codepen.io/JEMPI20 (https://codepen.io/JEMPI20)
 
 - 🗣️ I speak **English, Spanish and Catalan**
 
