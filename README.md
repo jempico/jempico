@@ -7,11 +7,9 @@
 
 - 🤝 I’m actively looking for junior web development positions based **in Barcelona**
 
-- 💬 Ask me about **React, Rest APIs, HTTP, NodeJS, Databases (SQL/NoSQL), Web Security (Bcrypt/JWT/OAuth)**
-
-- 🔭 I’m currently working on a project with **Redux, Hooks, GraphQL, ContextAPI, Stripe, Firebase, Styled-components, Jest and Enzyme** in order to become a solid React/NodeJS full-stack dev! 
-
 - 🎓 While studying a **CFGS in Web App Development** at the UOC (Universitat Oberta de Catalunya)
+
+- 💬 Ask me about **React, Rest APIs, HTTP, NodeJS, Databases (SQL/NoSQL), Web Security (Bcrypt/JWT/OAuth)**
 
 - 👨‍💻 All my projects are available at [www.jempico.com](www.jempico.com)
 
