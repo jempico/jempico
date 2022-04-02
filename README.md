@@ -5,9 +5,7 @@
 
 - 🐣 I’m a recent **JavaScript/NodeJS Full-Stack Bootcamp** graduate
 
-- 🤝 I’m actively looking for junior web development positions based **in Barcelona**
-
-- 🎓 While studying a **CFGS in Web App Development** at the UOC (Universitat Oberta de Catalunya)
+- 🎓 And a **CFGS in Web App Development** at the UOC (Universitat Oberta de Catalunya)
 
 - 💬 Ask me about **React, Rest APIs, HTTP, NodeJS, Databases (SQL/NoSQL), Web Security (Bcrypt/JWT/OAuth)**
 
