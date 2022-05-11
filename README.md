@@ -1,23 +1,19 @@
 <h1 align="center">Hi! Hola! 👋🏽 , I'm Jemimah</h1>
-<h3 align="center">A passionate runner & web developer from Barcelona</h3>
 
 <br>
 
-- 🐣 I’m a recent **JavaScript/NodeJS Full-Stack Bootcamp** graduate
+- 🐣  I used to work as a project manager for digital advertisers and agencies, now I work for **Opticks** as a **front-end junior developer**, helping our clients beat and block digital fraud (bots, do nott mess with us!! 🕵️‍♀️ 😎).
 
-- 🎓 And a **CFGS in Web App Development** at the UOC (Universitat Oberta de Catalunya)
-
-- 💬 Ask me about **React, Rest APIs, HTTP, NodeJS, Databases (SQL/NoSQL), Web Security (Bcrypt/JWT/OAuth)**
-
-- 👨‍💻 All my projects are available at [www.jempico.com](www.jempico.com)
-
-- 🎨 For funky front-end pills go check my CodePEN colletion at [www.codepen.io/JEMPI20](https://codepen.io/JEMPI20)
+- 👩🏽‍💻  All my projects are available at [www.jempico.com](www.jempico.com)
 
 - 🗣️ I speak **English, Spanish and Catalan**
 
-- 🏃🏻‍♀️ When not coding...  **I'm training for my first 10K!** (With [THIS](https://open.spotify.com/playlist/0GD1RMN2R3enVkelfdvVtm?si=9046b52a8ff64da6) playlist!)
+- 🏃🏻‍♀️ When not coding...  **I'm running and training for my first 21k** (With [THIS](https://open.spotify.com/playlist/0GD1RMN2R3enVkelfdvVtm?si=9046b52a8ff64da6) playlist!)
 
-- 🎧 My favorite coding music: any [Charlie Brown & Peanuts](https://open.spotify.com/album/4bNE83zw6uZs5FyDFnSCui?si=EdmvH74IRgSBCKXQhsfx9w) soundtrack album (or [lofi beats](https://www.youtube.com/watch?v=f02mOEt11OQ), for suree!)
+- 🎧 And last but not least "music is LOVE, and I Love music":
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=panndux&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
+
 
 <br>
 
