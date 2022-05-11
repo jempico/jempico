@@ -12,7 +12,7 @@
 
 - 🎧 And last but not least "music is LOVE, and I Love music":
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=panndux&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=panndux&cover_image=true&theme=default&bar_color=08f000&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 
 <br>
