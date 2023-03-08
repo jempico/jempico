@@ -8,7 +8,7 @@
 
 - 🗣️ I speak **English, Spanish and Catalan**
 
-- 🏃🏻‍♀️ When not coding...  **I'm running and training for my first 21k** (With [THIS](https://open.spotify.com/playlist/0GD1RMN2R3enVkelfdvVtm?si=9046b52a8ff64da6) playlist!)
+- 🏃🏻‍♀️ When not coding...  **I'm running** (With [THIS](https://open.spotify.com/playlist/0GD1RMN2R3enVkelfdvVtm?si=9046b52a8ff64da6) playlist!)
 
 - 🎧 And last but not least "music is LOVE, and I Love music":
 
