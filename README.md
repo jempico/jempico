@@ -2,7 +2,7 @@
 
 <br>
 
-- 🐣  I used to work as a project manager for digital advertisers and agencies, now I work for **Opticks** as a **front-end developer**, helping our clients beat and block digital fraud (bots, do nott mess with us!! 🕵️‍♀️ 😎).
+- I'm a React front-end developer working for **Opticks** helping our clients beat and block digital fraud (bots, do nott mess with us!! 🕵️‍♀️ 😎).
 
 - 👩🏽‍💻  All my projects are available at [www.jempico.com](www.jempico.com)
 
