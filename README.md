@@ -8,7 +8,7 @@ I'm a React front-end developer working for <a href="https://optickssecurity.com
 <li> 🗺 I'm based in Barcelona.</li>
 <li> 🗣️ I speak Spanish and Catalan with family and friends and English in professional environments.</li>
 <li> 🧪 What to expect from me: testing, thorough QA and meaningful documentation. </li>
-<li> 🏃🏻‍♀️ When not coding, I'm running !! .</li>
+<li> 🏃🏻‍♀️ When not coding, I'm running.</li>
 <li> 🐣 I have a <a href="https://www.linkedin.com/in/jempico/"> past</a> in the Digital Marketing Industry.</li>
 </ul>
 <br>
