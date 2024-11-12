@@ -27,7 +27,7 @@ I'm a React front-end developer working for <a href="https://optickssecurity.com
 <h3 align="left"> 🛠 Back-end: </h3>
 
 <ul>
-<li> Programming language and typing: Node.js, JavaScript </li>
+<li> Programming language: Node.js / JavaScript </li>
 <li> Frameworks: Express, Socket.io </li>
 <li> ORMs: Mongoose, Sequelize, Prisma </li>
 <li> DB: mySQL, PostgreSQL, MongoDB </li>
