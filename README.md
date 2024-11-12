@@ -1,37 +1,61 @@
-<h1 align="center">Hi! Hola! 👋🏽 , I'm Jemimah</h1>
-
+<h1 align="left">Hi! Hola!</h1>
+I'm a React front-end developer working for <a href="https://optickssecurity.com/">Opticks Security</a> helping our clients beat and block digital Ad fraud.
+<br>
+<br>
+<h2 align="left">Who am I</h1>
+<ul>
+<li> 👩🏽‍💻 I'm Jemimah (also kwown as Mimi).</li>
+<li> 🗺 I'm based in Barcelona.</li>
+<li> 🗣️ I speak English, Spanish and Catalan.</li>
+<li> 🏃🏻‍♀️ When not coding...  I'm running (With <a href="https://open.spotify.com/playlist/0GD1RMN2R3enVkelfdvVtm?si=9046b52a8ff64da6">THIS</a> playlist!).</li>
+<li> 🐣 I have a <a href="https://www.linkedin.com/in/jempico/"> past</a> in the Digital Marketing Industry.</li>
+</ul>
 <br>
 
-- I'm a React front-end developer working for **Opticks Security** helping our clients beat and block digital fraud (bots, do nott mess with us!! 🕵️‍♀️ 😎).
+<h2 align="left">My stack</h1>
 
-- 👩🏽‍💻  All my projects are available at [www.jempico.com](www.jempico.com)
+<h3 align="left">🎨 Front-end: </h3>
+<ul>
+<li> Programming language and typing: JavaScript TypeScript</li>
+<li> Frameworks: React </li>
+<li> State Management: Redux </li>
+<li> Styling: Styled Components, recharts, react-tables </li>
+<li> Forms: redux-form </li>
+<li> Testing: Cypress </li>
+</ul>
 
-- 🗣️ I speak **English, Spanish and Catalan**
+<h3 align="left"> 🛠 Back-end: </h3>
 
-- 🏃🏻‍♀️ When not coding...  **I'm running** (With [THIS](https://open.spotify.com/playlist/0GD1RMN2R3enVkelfdvVtm?si=9046b52a8ff64da6) playlist!)
+<ul>
+<li> Programming language and typing: Node.js, JavaScript TypeScript</li>
+<li> Frameworks: Express, Socket.io </li>
+<li> ORMs: Mongoose, Sequelize, Prisma </li>
+<li> DB: mySQL, PostgreSQL, MongoDB </li>
+<li> Authentication: JWT, OAuth, Bcrypt, Passport </li>
+<li> Testing: Jest </li>
+</ul>
 
-- 🎧 And last but not least "music is LOVE, and I Love music":
+<h3 align="left"> 🚀 Deployment: </h3> 
+<ul>
+<li> Netlify </li>
+<li> Heroku </li>
+</ul>  
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=panndux&cover_image=true&theme=default)](https://open.spotify.com/user/panndux?si=69ee6731e8ac4335)
+<h3 align="left"> 🖥 Toolkit: </h3> 
+<ul>
+<li> NPM </li>
+<li> ESLint </li>
+<li> Vite </li>
+<li> Visual Studio Code </li>
+<li> Git / GitHub </li>
+<li> Redux Dev Tools </li>
+<li> Tweak </li>
+<li> Postman </li>
+<li> Confluence </li>
+<li> ClickUp </li>
+</ul>  
 
 <br>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/jempi20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="jempi20" height="30" width="40" /></a>
-<a href="https://twitter.com/jempico" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jempico" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/jempico" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jempico" height="30" width="40" /></a>
-</p>
-
-<br>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> </p>
-
-<br>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jempico&show_icons=true&locale=en&layout=compact" alt="jempico" /></p>
-
+<h2 align="left">My Progress</h1>
 <br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jempico&" alt="jempico" /></p>
-
