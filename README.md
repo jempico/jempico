@@ -22,7 +22,7 @@ I'm a React front-end developer working for <a href="https://optickssecurity.com
 <li> State Management: Redux </li>
 <li> Styling: Styled Components, Recharts, React-Tables </li>
 <li> Forms: Redux-Form </li>
-<li> Testing: Cypress </li>
+<li> Testing: Cypress, React Testing Library </li>
 </ul>
 
 <h3 align="left"> 🛠 Back-end: </h3>
